@@ -1,4 +1,4 @@
-# Arduino_GFX
+# Arduino_GFX - Added support for LilyGo T-RGB
 
 Arduino_GFX is a Arduino graphics library supporting various displays with various data bus interfaces.
 
